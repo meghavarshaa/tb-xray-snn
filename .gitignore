@@ -1,0 +1,10 @@
+# Ignore large binary files and cache
+*.npy
+*.pt
+__pycache__/
+.DS_Store
+.env
+*.zip
+*.tar*
+outputs/
+data/
